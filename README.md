@@ -1,6 +1,8 @@
 # Computer-Graphics-Lab (CSE422)
 - Wind_Turbine_Power_Project_Sirajganj .
 - This project is done for Academic Purpose .
+- There are Two View Day & Night 
+- Press Button 'd' for Day & 'n" for Night 
 
 ## Get Started with OpenGL Programming in Code::Blocks
 - Download and install <a href="https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03-nosetup.exe" target="_blank">Code::Blocks</a> if you have not already.
